@@ -1,0 +1,1 @@
+{"name":"question-detector","private":true,"packageManager":"pnpm@10.30.3","scripts":{"dev":"pnpm --filter web dev","build":"pnpm --filter web build"}}
